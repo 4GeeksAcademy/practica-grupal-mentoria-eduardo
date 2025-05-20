@@ -7,4 +7,3 @@ window.onload = function() {
         mainDocument.style.backgroundColor = "lightblue";
     }
 };
-
